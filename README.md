@@ -7,4 +7,4 @@ This repo for test automation framework, it is end to end solution.
 2.Java
 3.Maven
 4.Testng
-5.Extentreportk
+5.Extentreport
