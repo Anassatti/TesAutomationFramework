@@ -1,5 +1,5 @@
 # TesAutomationFramework
-This repo for the test automation framework. The technologies are:
+This repo for the test automation framework.
 
 1. Java
 2. Maven
